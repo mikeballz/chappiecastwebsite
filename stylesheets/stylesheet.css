@@ -312,9 +312,8 @@ code {font-size: 1.5em;}
   .page-header {
   background: url(../images/heroMobile.png);
   text-align: center;
-  background: url(../images/hero.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 381px;
+  height: 300px;
   }}
