@@ -57,7 +57,7 @@ a {
 .installsteps {font-size: 1.5em;}
 
 .movieblock div{
-  background: url(../images/hero.png); /*#FAAF40;*/
+ /* background: url(../images/hero.png); /*#FAAF40;*/*/
 /*  background-size: cover;
   text-align: center;*/
   background-size: cover;
@@ -108,7 +108,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background: url(../images/heroshort.png);
+  background: url(../images/HeroShort.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
